@@ -88,12 +88,12 @@
   }
 }
 
-/* @layer base {
+@layer base {
   body {
     @apply bg-background text-foreground;
   }
 
-} */
+}
 
 :root {
   --radius: 0.625rem;
